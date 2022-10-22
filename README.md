@@ -4,7 +4,7 @@
 ### Based on IoT board under development
 The project touches on key elements of database. Databases preferred for this project
 * MongoDB NoSql
-![tiprock remote information]('./readme.png')
+![tiprock remote information]('https://github.com/tiprock-network/tiprockremoteinfo/blob/master/readme.png?raw=true')
 
 Platform preferred for cloud based solutions:
 * Microsoft Azure 
